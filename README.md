@@ -7,17 +7,15 @@ Table of Contents
 
 I.) Overview
 
-II.) Adjustments to Overworld Abilities/Quality of Life Updates
+II.) Adjustments to Over-world Abilities/Quality of Life Updates
 
 c1 Retreat
 
 c2 Avoid
 
-c3 Addressing Grinding
+c3 Default Psynergy
 
-c4 Default Psynergy
-
-c5 Psynergy Items
+c4 Psynergy Items
 
 III.) Known Bugs/Issues
 
@@ -33,7 +31,7 @@ This mod implements the Quality-of-Life features used in Dawn of Djinn in a sett
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-II.) Adjustments to Overworld Abilities/Quality of Life Updates
+II.) Adjustments to Over-world Abilities/Quality of Life Updates
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
@@ -59,7 +57,7 @@ IV.) Known Bugs/Issues
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Occasional visual effects when using Retreat in the overworld. I believe this is a carry-over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
+Occasional visual effects when using Retreat in the over-world. I believe this is a carry-over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
 
 I feel fairly certain that there are some visual bugs and occasional moments of lag caused the amount of extras I added into the game's "code". Though there is a chance that may just be caused by the software I use to run it and not the mod itself. I will attempt to fix it as I'm reworking "Take 2.0" as I'll be better able to optimize the space I already have.
 
@@ -87,4 +85,4 @@ GSTBS_QoL_P: Prologue and Djinn tutorial left in the game.
 
 GSTBS_QoL_NP: Starts the game off right as Isaac and Garet are leaving Vale, as well as skips the Flint tutorial.
 
-Neither of these patches remove the dialogue, like in Dawn of Djinn V1, however this patch is compatible with the cutscene skip patch used in Golden Sun 1 speedruns (Not included). The two can be used in combination to skip the prologue and go through cutscenes as quickly as possible.
+Neither of these patches remove the dialogue, like in Dawn of Djinn V1, however this patch is compatible with the cut-scene skip patch used in Golden Sun 1 speed-runs (Not included). The two can be used in combination to skip the prologue and go through cut-scenes as quickly as possible.

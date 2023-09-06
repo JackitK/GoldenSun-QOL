@@ -59,8 +59,6 @@ IV.) Known Bugs/Issues
 
 Occasional visual effects when using Retreat in the over-world. I believe this is a carry-over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
 
-I feel fairly certain that there are some visual bugs and occasional moments of lag caused the amount of extras I added into the game's "code". Though there is a chance that may just be caused by the software I use to run it and not the mod itself. I will attempt to fix it as I'm reworking "Take 2.0" as I'll be better able to optimize the space I already have.
-
 Avoid can be buggy with it's new implementation. If one saves and quits the game while Avoid is still toggled on, they may have problems turning it back off once they reopen the game. Most consistent solution I've discovered to fixed this from a player's end is to toggle it on and off, transition to a new area, toggle it on and off again. If done correctly, this will make it toggle like normal. As for correcting this problem from the creator side. I'm not sure if this is possible as the Avoid changes were carried over from the Golden Sun Randomizer and I don't have access to the original code. Best measure of avoiding this issue is to make sure it's off before saving the game.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

@@ -57,9 +57,10 @@ IV.) Known Bugs/Issues
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-Occasional visual effects when using Retreat in the over-world. I believe this is a carry-over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
+- Occasional visual effects when using Retreat in the over-world. I believe this is a carry-over from the Golden Sun Randomizer and if so, I'm not sure if I have the ability to fix it.
 
-Avoid can be buggy with it's new implementation. If one saves and quits the game while Avoid is still toggled on, they may have problems turning it back off once they reopen the game. Most consistent solution I've discovered to fixed this from a player's end is to toggle it on and off, transition to a new area, toggle it on and off again. If done correctly, this will make it toggle like normal. As for correcting this problem from the creator side. I'm not sure if this is possible as the Avoid changes were carried over from the Golden Sun Randomizer and I don't have access to the original code. Best measure of avoiding this issue is to make sure it's off before saving the game.
+- Avoid can be buggy with it's new implementation. If one saves and quits the game while Avoid is still toggled on, they may have problems turning it back off once they reopen the game. Most consistent solution I've discovered to fixed this from a player's end is to toggle it on and off, transition to a new area, toggle it on and off again. If done correctly, this will make it toggle like normal. As for correcting this problem from the creator side. I'm not sure if this is possible as the Avoid changes were carried over from the Golden Sun Randomizer and I don't have access to the original code. Best measure of avoiding this issue is to make sure it's off before saving the game.
+- Toggling Avoid off spits out garbage text. This appears to be a side-effect of editing the text of a Golden Sun 1 Randomizer seed, which was how I was able to implement the QOL features from the randomizer in a vanilla playthrough. Only way I know to fix this is to change what ever text is being pulled into saying what I want it to say. This may be address if I ever come back to this project, however it will come with it's own quirks of changing whatever text is being pulled in it's orginal context as well.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 

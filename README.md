@@ -1,4 +1,6 @@
 # GoldenSun-QOL
+
+As a heads up, there are no plans for new update Golden Sun QOL, as my time is too focused on other projects to make any further adjustments to this one.  Thank you for your patience and understanding.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 Table of Contents

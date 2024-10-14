@@ -47,7 +47,7 @@ Avoid now behaves as a random encounter toggle rather than a wear off effect. Us
 
 c3 Default Psynergy
 
-Building off the built in Psynergy the Randomizer provided, many utility Psynergy like Growth, Whirlwind, and even Avoid are built right into party members so they have them, regardless of your class. In addition, Psynergy not tied to battle no longer cost Psynergy to use. Though they have different names to distinguish from their battle equivalents. For example in battle Growth still cost Psynergy to use, but outside of battle it is refer to as “Sprout” but otherwise functions the same.
+Building off the built in Psynergy the Randomizer provided, many utility Psynergy like Growth, Whirlwind, and even Avoid are built right into party members so they have them, regardless of your class. In addition, Psynergy not tied to battle no longer cost Psynergy to use. Though they have different names to distinguish from their battle equivalents. For example in battle Whirlwind still cost Psynergy to use, but outside of battle it is refer to as “Gust”. Otherwise, it functions the same.
 
 c4 Psynergy Items
 
